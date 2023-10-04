@@ -1,0 +1,67 @@
+{
+  "flow_name": "when_to_wash_your_hands_tasks",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "when_handwash",
+      "illustration": "essential_tools/mod3_when_handwash.svg",
+      "reference": "United Nations Children’s Fund, Handwashing Promotion Monitoring and Evaluation Module. New York: UNICEF; 2013.\n\nExtract:\nCritical (handwashing) events include:\n- After toileting\n- After contact with human or animal faeces:\n    * After cleaning a child’s anus\n    * After removing child’s faeces from the yard\n    * After contact with animal dung\n- Before preparing food\n- Before serving food\n- Before eating\n- Before feeding a child/breastfeeding\n- After coughing or sneezing\n- After blowing nose\n- Other:\n    * After eating\n    * After handling livestock\n    * After cleaning or sweeping inside or outside the house",
+      "reference_link_title": "Handwashing Promotion Monitoring and Evaluation Module. UNICEF; 2013.",
+      "reference_link": "www.unicef.org/documents/handwashing-promotion-monitoring-and-evaluation-module",
+      "title": "When do we wash hands?",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "When do we wash hands?"
+        },
+        "text": {
+          "eng": "To help keep healthy it is very important to wash your hands with soap at the following times:\n* Before and after cooking\n* Before eating\n* Before and after attending a sick person\n* After using the toilet\n* After changing a baby’s nappy"
+        }
+      },
+      "text": "To help keep healthy it is very important to wash your hands with soap at the following times:\n* Before and after cooking\n* Before eating\n* Before and after attending a sick person\n* After using the toilet\n* After changing a baby’s nappy",
+      "completed_field": "when_to_wash_your_hands_when_handwash_completed"
+    },
+    {
+      "id": "why_handwash",
+      "illustration": "essential_tools/mod3_sparkly_hands.svg",
+      "title": "Washing your hands with soap feels good",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Washing your hands with soap feels good"
+        },
+        "text": {
+          "eng": "When you wash your hands with soap, your hands will feel and smell clean and fresh."
+        }
+      },
+      "text": "When you wash your hands with soap, your hands will feel and smell clean and fresh.",
+      "completed_field": "when_to_wash_your_hands_why_handwash_completed"
+    },
+    {
+      "id": "why_cleaning",
+      "illustration": "essential_tools/mod3_changing_nappies.svg",
+      "title": "Cleaning after changing nappies",
+      "_translations": {
+        "title": {},
+        "text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Cleaning after changing nappies"
+        },
+        "text": {
+          "eng": "Baby poop looks and smells different from adult poop, but it can still make you sick. It's important to wash your hands after cleaning a baby's nappy."
+        }
+      },
+      "text": "Baby poop looks and smells different from adult poop, but it can still make you sick. It's important to wash your hands after cleaning a baby's nappy.",
+      "completed_field": "when_to_wash_your_hands_why_cleaning_completed"
+    }
+  ]
+}
