@@ -1,0 +1,227 @@
+{
+  "flow_type": "template",
+  "flow_name": "home_screen",
+  "status": "released",
+  "rows": [
+    {
+      "type": "update_action_list",
+      "name": "custom_actions_1",
+      "action_list": [
+        {
+          "trigger": "nav_resume",
+          "action_id": "emit",
+          "args": [
+            "force_reload"
+          ],
+          "_raw": "nav_resume | emit: force_reload",
+          "_cleaned": "nav_resume | emit: force_reload"
+        }
+      ],
+      "_nested_name": "custom_actions_1"
+    },
+    {
+      "name": "highlighted_module",
+      "value": "@fields._task_highlighted_group_id",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "highlighted_module",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields._task_highlighted_group_id",
+            "matchedExpression": "@fields._task_highlighted_group_id",
+            "type": "fields",
+            "fieldName": "_task_highlighted_group_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._task_highlighted_group_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "dg_highlighted_module",
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "type": "template",
+          "name": "highlighted_module_card",
+          "value": "module_card",
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "name": "module_id",
+              "value": "@local.highlighted_module",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_highlighted_module.highlighted_module_card.module_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.highlighted_module",
+                    "matchedExpression": "@local.highlighted_module",
+                    "type": "local",
+                    "fieldName": "highlighted_module"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.highlighted_module": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "card_style",
+              "value": "landscape",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_highlighted_module.highlighted_module_card.card_style"
+            }
+          ],
+          "_nested_name": "dg_highlighted_module.highlighted_module_card"
+        }
+      ],
+      "_nested_name": "dg_highlighted_module"
+    },
+    {
+      "type": "title",
+      "name": "title",
+      "value": "All Modules",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_all_modules",
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "type": "carousel",
+          "name": "carousel",
+          "parameter_list": {
+            "space_between": "8",
+            "task_group_data": "module_tasks"
+          },
+          "exclude_from_translation": true,
+          "rows": [
+            {
+              "type": "items",
+              "value": "@data.module_tasks",
+              "exclude_from_translation": true,
+              "rows": [
+                {
+                  "type": "template",
+                  "name": "module_card_@item.id",
+                  "value": "module_card",
+                  "exclude_from_translation": true,
+                  "rows": [
+                    {
+                      "name": "module_id",
+                      "value": "@item.id",
+                      "_translations": {
+                        "value": {}
+                      },
+                      "exclude_from_translation": true,
+                      "type": "set_variable",
+                      "_nested_name": "dg_all_modules.carousel.items.module_card_@item.id.module_id",
+                      "_dynamicFields": {
+                        "value": [
+                          {
+                            "fullExpression": "@item.id",
+                            "matchedExpression": "@item.id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ],
+                        "_nested_name": [
+                          {
+                            "fullExpression": "dg_all_modules.carousel.items.module_card_@item.id.module_id",
+                            "matchedExpression": "@item.id.module_id",
+                            "type": "item",
+                            "fieldName": "id"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@item.id": [
+                          "value"
+                        ],
+                        "@item.id.module_id": [
+                          "_nested_name"
+                        ]
+                      }
+                    }
+                  ],
+                  "_nested_name": "dg_all_modules.carousel.items.module_card_@item.id",
+                  "_dynamicFields": {
+                    "name": [
+                      {
+                        "fullExpression": "module_card_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ],
+                    "_nested_name": [
+                      {
+                        "fullExpression": "dg_all_modules.carousel.items.module_card_@item.id",
+                        "matchedExpression": "@item.id",
+                        "type": "item",
+                        "fieldName": "id"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.id": [
+                      "name",
+                      "_nested_name"
+                    ]
+                  }
+                }
+              ],
+              "name": "items",
+              "_nested_name": "dg_all_modules.carousel.items",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@data.module_tasks",
+                    "matchedExpression": "@data.module_tasks",
+                    "type": "data",
+                    "fieldName": "module_tasks"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@data.module_tasks": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "dg_all_modules.carousel"
+        }
+      ],
+      "_nested_name": "dg_all_modules"
+    }
+  ],
+  "_xlsxPath": "templates/global/navigation_templates.xlsx"
+}

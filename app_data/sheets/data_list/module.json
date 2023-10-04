@@ -1,0 +1,237 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "module",
+  "status": "released",
+  "data_list_name": "module",
+  "rows": [
+    {
+      "id": "introduction",
+      "number": 1,
+      "illustration": "essential_tools/home_woman_advising.svg",
+      "title": "Water, Sanitation and Hygiene",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Water, Sanitation and Hygiene"
+        },
+        "text_introduction": {
+          "eng": "Safe Water, Sanitation and Hygiene (WASH) helps us and keeps our communities safe from harmful germs."
+        }
+      },
+      "text_introduction": "Safe Water, Sanitation and Hygiene (WASH) helps us and keeps our communities safe from harmful germs."
+    },
+    {
+      "id": "handwashing_with_soap",
+      "number": 2,
+      "illustration": "essential_tools/home_handwashing.svg",
+      "title": "Handwashing with soap",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Handwashing with soap"
+        },
+        "text_introduction": {
+          "eng": "Washing your hands with soap is one of the most important things you can do to keep strong and healthy."
+        }
+      },
+      "text_introduction": "Washing your hands with soap is one of the most important things you can do to keep strong and healthy."
+    },
+    {
+      "id": "when_to_wash_your_hands",
+      "number": 3,
+      "illustration": "essential_tools/home_handgerms.svg",
+      "title": "When to wash your hands",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "When to wash your hands"
+        },
+        "text_introduction": {
+          "eng": "To avoid the spread of germs it is important to wash your hands with soap several times a day."
+        }
+      },
+      "text_introduction": "To avoid the spread of germs it is important to wash your hands with soap several times a day."
+    },
+    {
+      "id": "how_to_wash_your_hands",
+      "number": 4,
+      "illustration": "essential_tools/mod2_why_soap.svg",
+      "title": "How to wash your hands",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to wash your hands"
+        },
+        "text_introduction": {
+          "eng": "Washing your hands is easy! Just follow these simple steps."
+        }
+      },
+      "text_introduction": "Washing your hands is easy! Just follow these simple steps."
+    },
+    {
+      "id": "healthy_families",
+      "number": 5,
+      "illustration": "essential_tools/home_man_advising.svg",
+      "title": "Keeping healthy",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Keeping healthy"
+        },
+        "text_introduction": {
+          "eng": "Prevent diseases by drinking safe water, using clean toilets and washing your hands often."
+        }
+      },
+      "text_introduction": "Prevent diseases by drinking safe water, using clean toilets and washing your hands often."
+    },
+    {
+      "id": "clean_toilets",
+      "number": 6,
+      "illustration": "essential_tools/home_toilet.svg",
+      "title": "Clean toilets",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Clean toilets"
+        },
+        "text_introduction": {
+          "eng": "A clean toilet means good hygiene.  A dirty one can mean disease."
+        }
+      },
+      "text_introduction": "A clean toilet means good hygiene.  A dirty one can mean disease."
+    },
+    {
+      "id": "healthy_homes",
+      "number": 7,
+      "illustration": "essential_tools/mod7_house.svg",
+      "title": "Healthy home",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Healthy home"
+        },
+        "text_introduction": {
+          "eng": "A safe place to live is possible when your home and its surroundings are clean."
+        }
+      },
+      "text_introduction": "A safe place to live is possible when your home and its surroundings are clean."
+    },
+    {
+      "id": "safe_drinking_water",
+      "number": 8,
+      "illustration": "essential_tools/home_water_flow.svg",
+      "title": "Safe drinking water",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safe drinking water"
+        },
+        "text_introduction": {
+          "eng": "Clean water saves money and improves health. Collect water from a safe source, maintain clean containers, and treat water to make it clean."
+        }
+      },
+      "text_introduction": "Clean water saves money and improves health. Collect water from a safe source, maintain clean containers, and treat water to make it clean."
+    },
+    {
+      "id": "safe_food",
+      "number": 9,
+      "illustration": "essential_tools/mod9_hot_food.svg",
+      "title": "Safe food",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Safe food"
+        },
+        "text_introduction": {
+          "eng": "There are five ways to keep food safe. Know what they are!"
+        }
+      },
+      "text_introduction": "There are five ways to keep food safe. Know what they are!"
+    },
+    {
+      "id": "waste",
+      "number": 10,
+      "illustration": "essential_tools/mod10_home_wastebin.svg",
+      "title": "Garbage management",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Garbage management"
+        },
+        "text_introduction": {
+          "eng": "Let's manage our garbage.  It will mean a clean home."
+        }
+      },
+      "text_introduction": "Let's manage our garbage.  It will mean a clean home."
+    },
+    {
+      "id": "bathing",
+      "number": 11,
+      "illustration": "essential_tools/mod11_soap_bucket.svg",
+      "title": "Bathing and washing",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Bathing and washing"
+        },
+        "text_introduction": {
+          "eng": "Wash often in a clean private bathing place (sometimes, you can even sing while bathing!)."
+        }
+      },
+      "text_introduction": "Wash often in a clean private bathing place (sometimes, you can even sing while bathing!)."
+    },
+    {
+      "id": "celebration",
+      "number": 12,
+      "illustration": "essential_tools/home_man_celebrating.svg",
+      "title": "Celebration",
+      "_translations": {
+        "title": {},
+        "text_introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Celebration"
+        },
+        "text_introduction": {
+          "eng": "Celebrate everything that you have learned."
+        }
+      },
+      "text_introduction": "Celebrate everything that you have learned."
+    }
+  ],
+  "_xlsxPath": "data_lists/modules/module_tasks.xlsx"
+}

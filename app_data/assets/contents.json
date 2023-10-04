@@ -1,0 +1,302 @@
+{
+  "android/icon-background.png": {
+    "filePath": "global/android/icon-background.png",
+    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
+    "size_kb": 7
+  },
+  "android/icon-foreground.png": {
+    "filePath": "global/android/icon-foreground.png",
+    "md5Checksum": "0d18a54f7adf0e1e3efc57913d7fa797",
+    "size_kb": 65.9
+  },
+  "android/icon.png": {
+    "filePath": "global/android/icon.png",
+    "md5Checksum": "b20335986d51de8f50b9d5b6fef00900",
+    "size_kb": 70.8
+  },
+  "android/splash.png": {
+    "filePath": "global/android/splash.png",
+    "md5Checksum": "3cefb9a946f82911925906da42c9a7c8",
+    "size_kb": 233.5
+  },
+  "essential_tools/handwashing2.svg": {
+    "filePath": "global/essential_tools/handwashing2.svg",
+    "md5Checksum": "1a7415dbd0e3340c514f317a9dacb0e8",
+    "size_kb": 526.3
+  },
+  "essential_tools/home_handgerms.svg": {
+    "filePath": "global/essential_tools/home_handgerms.svg",
+    "md5Checksum": "eed26be73bd08438a72a3d7014968252",
+    "size_kb": 803.5
+  },
+  "essential_tools/home_handwashing.svg": {
+    "filePath": "global/essential_tools/home_handwashing.svg",
+    "md5Checksum": "6b3dc444976429fcda65563de5a054c5",
+    "size_kb": 527.7
+  },
+  "essential_tools/home_man_advising.svg": {
+    "filePath": "global/essential_tools/home_man_advising.svg",
+    "md5Checksum": "c807b69cef797c453a77091239a62664",
+    "size_kb": 14
+  },
+  "essential_tools/home_man_celebrating.svg": {
+    "filePath": "global/essential_tools/home_man_celebrating.svg",
+    "md5Checksum": "30c38675858c0f0d0a79dd25a4d250b2",
+    "size_kb": 19.9
+  },
+  "essential_tools/home_toilet.svg": {
+    "filePath": "global/essential_tools/home_toilet.svg",
+    "md5Checksum": "89800e3f6f183b1faa5ef9dc3cfba159",
+    "size_kb": 538.8
+  },
+  "essential_tools/home_water_flow.svg": {
+    "filePath": "global/essential_tools/home_water_flow.svg",
+    "md5Checksum": "8cd284f345aac70377d8b9f4cf4fe73c",
+    "size_kb": 545.6
+  },
+  "essential_tools/home_woman_advising.svg": {
+    "filePath": "global/essential_tools/home_woman_advising.svg",
+    "md5Checksum": "37e3ea40a216fb655ff8f9a64ade1624",
+    "size_kb": 8.7
+  },
+  "essential_tools/mod10_bins.svg": {
+    "filePath": "global/essential_tools/mod10_bins.svg",
+    "md5Checksum": "b814b932d0ebbc5d4b40df7dd2c12709",
+    "size_kb": 22.5
+  },
+  "essential_tools/mod10_home_wastebin.svg": {
+    "filePath": "global/essential_tools/mod10_home_wastebin.svg",
+    "md5Checksum": "70cd8da8b117e469437beeed1aa15fa7",
+    "size_kb": 368.6
+  },
+  "essential_tools/mod10_waste.svg": {
+    "filePath": "global/essential_tools/mod10_waste.svg",
+    "md5Checksum": "e2f3c9b670a4f357f3a62c309b1385cb",
+    "size_kb": 22.1
+  },
+  "essential_tools/mod11_cleaning_bathroom.svg": {
+    "filePath": "global/essential_tools/mod11_cleaning_bathroom.svg",
+    "md5Checksum": "bff2b5c2919e204124af821c651d10b3",
+    "size_kb": 61.1
+  },
+  "essential_tools/mod11_soap_bucket.svg": {
+    "filePath": "global/essential_tools/mod11_soap_bucket.svg",
+    "md5Checksum": "713d3f70088fc26e4b45bee4d8aaa125",
+    "size_kb": 491.2
+  },
+  "essential_tools/mod12_woman_celebrating.svg": {
+    "filePath": "global/essential_tools/mod12_woman_celebrating.svg",
+    "md5Checksum": "fd2e25b18037595a1da2c9acb1677a9f",
+    "size_kb": 14.3
+  },
+  "essential_tools/mod1_fuzzy_circle.svg": {
+    "filePath": "global/essential_tools/mod1_fuzzy_circle.svg",
+    "md5Checksum": "ef7e3f7daab550306e5413ae351d3192",
+    "size_kb": 507.1
+  },
+  "essential_tools/mod2_handwash_need.svg": {
+    "filePath": "global/essential_tools/mod2_handwash_need.svg",
+    "md5Checksum": "80d62d26a05f54139304fa38e667f759",
+    "size_kb": 289.1
+  },
+  "essential_tools/mod2_why_soap.svg": {
+    "filePath": "global/essential_tools/mod2_why_soap.svg",
+    "md5Checksum": "dfe598cf5113148ecae0eea535896a49",
+    "size_kb": 237.8
+  },
+  "essential_tools/mod2and5_why_wash_hands.svg": {
+    "filePath": "global/essential_tools/mod2and5_why_wash_hands.svg",
+    "md5Checksum": "09b7c26e481efc0030ae9bd3e42724db",
+    "size_kb": 270
+  },
+  "essential_tools/mod3_changing_nappies.svg": {
+    "filePath": "global/essential_tools/mod3_changing_nappies.svg",
+    "md5Checksum": "a0c2e4fe19e47633c02458755baa1172",
+    "size_kb": 12
+  },
+  "essential_tools/mod3_sparkly_hands.svg": {
+    "filePath": "global/essential_tools/mod3_sparkly_hands.svg",
+    "md5Checksum": "a65c5113d793e5dd8ddc977927f96e80",
+    "size_kb": 335.7
+  },
+  "essential_tools/mod3_when_handwash.svg": {
+    "filePath": "global/essential_tools/mod3_when_handwash.svg",
+    "md5Checksum": "cb30cbc885717b81e097afaed1c185cc",
+    "size_kb": 23.6
+  },
+  "essential_tools/mod4_handwashing_station.svg": {
+    "filePath": "global/essential_tools/mod4_handwashing_station.svg",
+    "md5Checksum": "dc85216942e15b9b5f830b431e0a2fc0",
+    "size_kb": 551.4
+  },
+  "essential_tools/mod4_how_to_wash_hands.svg": {
+    "filePath": "global/essential_tools/mod4_how_to_wash_hands.svg",
+    "md5Checksum": "6c837d249cb4b8f212cfecd3c7a478dc",
+    "size_kb": 781.8
+  },
+  "essential_tools/mod5_keep_healthy.svg": {
+    "filePath": "global/essential_tools/mod5_keep_healthy.svg",
+    "md5Checksum": "d4ed6287df5f19d43a06c14dd22f4cb1",
+    "size_kb": 9.5
+  },
+  "essential_tools/mod5_open_defecation.svg": {
+    "filePath": "global/essential_tools/mod5_open_defecation.svg",
+    "md5Checksum": "c75b2c76aa2d0f09b9eb8cc49add4eb5",
+    "size_kb": 2.4
+  },
+  "essential_tools/mod5and11_washing_face.svg": {
+    "filePath": "global/essential_tools/mod5and11_washing_face.svg",
+    "md5Checksum": "07863c8f9d48d19643db75469f4edbdf",
+    "size_kb": 15.4
+  },
+  "essential_tools/mod5and7_worms_in_compound.svg": {
+    "filePath": "global/essential_tools/mod5and7_worms_in_compound.svg",
+    "md5Checksum": "e5d3f7127175760fa87224d2cbec82b4",
+    "size_kb": 22.5
+  },
+  "essential_tools/mod6_cleaning_toilet.svg": {
+    "filePath": "global/essential_tools/mod6_cleaning_toilet.svg",
+    "md5Checksum": "cae8ebaf29567c601559758a42d1e692",
+    "size_kb": 46.2
+  },
+  "essential_tools/mod6_food_with_flies.svg": {
+    "filePath": "global/essential_tools/mod6_food_with_flies.svg",
+    "md5Checksum": "5ca5894bd4613049313b18da8c08fe73",
+    "size_kb": 59.5
+  },
+  "essential_tools/mod6_sweeping_toilet.svg": {
+    "filePath": "global/essential_tools/mod6_sweeping_toilet.svg",
+    "md5Checksum": "a772d344a0132ccfca410113272454ac",
+    "size_kb": 26.8
+  },
+  "essential_tools/mod6_toilet_closeup.svg": {
+    "filePath": "global/essential_tools/mod6_toilet_closeup.svg",
+    "md5Checksum": "a91076093d764cf734d39ace234127bf",
+    "size_kb": 452.7
+  },
+  "essential_tools/mod7_house.svg": {
+    "filePath": "global/essential_tools/mod7_house.svg",
+    "md5Checksum": "fca60c9722a362bd11496a08ee22c798",
+    "size_kb": 11
+  },
+  "essential_tools/mod7_man_cleaning.svg": {
+    "filePath": "global/essential_tools/mod7_man_cleaning.svg",
+    "md5Checksum": "1e9b2de9a5ef7b19fdcfdf203d9d47ed",
+    "size_kb": 38.3
+  },
+  "essential_tools/mod8_cleaning_container.svg": {
+    "filePath": "global/essential_tools/mod8_cleaning_container.svg",
+    "md5Checksum": "dcbe239bac5f72aa19fbf62b81aa6c4e",
+    "size_kb": 609.6
+  },
+  "essential_tools/mod8_getting_water.svg": {
+    "filePath": "global/essential_tools/mod8_getting_water.svg",
+    "md5Checksum": "338c62423a679075da6d9302b39a4e2a",
+    "size_kb": 29.1
+  },
+  "essential_tools/mod8_using_water_container.svg": {
+    "filePath": "global/essential_tools/mod8_using_water_container.svg",
+    "md5Checksum": "430e682382b6a8d971e8d40f34de2408",
+    "size_kb": 390.6
+  },
+  "essential_tools/mod8_water_boiling.svg": {
+    "filePath": "global/essential_tools/mod8_water_boiling.svg",
+    "md5Checksum": "d0d0fc7d088ba62ce6c0b6521065283f",
+    "size_kb": 467.4
+  },
+  "essential_tools/mod8_watergerms.svg": {
+    "filePath": "global/essential_tools/mod8_watergerms.svg",
+    "md5Checksum": "a1d3140cc2496ec49ec1388178926c3d",
+    "size_kb": 477.7
+  },
+  "essential_tools/mod9_hot_food.svg": {
+    "filePath": "global/essential_tools/mod9_hot_food.svg",
+    "md5Checksum": "3bc88cf07c1e06c4d55cba0c5b2b920a",
+    "size_kb": 45.7
+  },
+  "essential_tools/mod9_hot_food_pot.svg": {
+    "filePath": "global/essential_tools/mod9_hot_food_pot.svg",
+    "md5Checksum": "31a0ee38464dafcf36ad65ade42abffe",
+    "size_kb": 21.3
+  },
+  "essential_tools/mod9_separate_food.svg": {
+    "filePath": "global/essential_tools/mod9_separate_food.svg",
+    "md5Checksum": "f415a1274e70322ffa89fd4689dc7963",
+    "size_kb": 15.1
+  },
+  "essential_tools/mod9_washing_fruit_and_veg.svg": {
+    "filePath": "global/essential_tools/mod9_washing_fruit_and_veg.svg",
+    "md5Checksum": "5c4a3e955f26a0140410821e9948775f",
+    "size_kb": 22.1
+  },
+  "essential_tools/no1_circle.svg": {
+    "filePath": "global/essential_tools/no1_circle.svg",
+    "md5Checksum": "6cdd2dbcdcd4c6e80fcb465a5aadac46",
+    "size_kb": 424.6
+  },
+  "first_app_launch/shield.svg": {
+    "filePath": "global/first_app_launch/shield.svg",
+    "md5Checksum": "7bef996b92b5d2cadd4e1ca2bac7c2d1",
+    "size_kb": 2.8
+  },
+  "i18n/flags/gb.svg": {
+    "filePath": "global/i18n/flags/gb.svg",
+    "md5Checksum": "d3ddd6025a06a78535b0d432d14905bf",
+    "size_kb": 0.5
+  },
+  "i18n/flags/tz.svg": {
+    "filePath": "global/i18n/flags/tz.svg",
+    "md5Checksum": "4cba6f3545595d585cf1c89394955c71",
+    "size_kb": 0.5
+  },
+  "icons/ask_question.svg": {
+    "filePath": "global/icons/ask_question.svg",
+    "md5Checksum": "a442e88503da6639f07b956f55f935a8",
+    "size_kb": 1.4
+  },
+  "icons/globe_circle.svg": {
+    "filePath": "global/icons/globe_circle.svg",
+    "md5Checksum": "09762126162da34a86ad978f17ef1102",
+    "size_kb": 1.4
+  },
+  "icons/in_progress.svg": {
+    "filePath": "global/icons/in_progress.svg",
+    "md5Checksum": "6105962bc0edd981675d874dc8a51035",
+    "size_kb": 1.1
+  },
+  "icons/tick.svg": {
+    "filePath": "global/icons/tick.svg",
+    "md5Checksum": "b4e6f1e9ba6e5bcdd2e404bc432ba745",
+    "size_kb": 0.3
+  },
+  "logos/cwb.png": {
+    "filePath": "global/logos/cwb.png",
+    "md5Checksum": "96ca4be5f77d2647764c06c51bc5411f",
+    "size_kb": 56.3
+  },
+  "logos/idems.png": {
+    "filePath": "global/logos/idems.png",
+    "md5Checksum": "7a9836027993f71cbd19a871e16fe450",
+    "size_kb": 39.4
+  },
+  "logos/innodems.png": {
+    "filePath": "global/logos/innodems.png",
+    "md5Checksum": "7dab9221171274087aeef7cd17573967",
+    "size_kb": 49.9
+  },
+  "logos/nimr.png": {
+    "filePath": "global/logos/nimr.png",
+    "md5Checksum": "4937f247b3e71fa05eb9885beb40c66f",
+    "size_kb": 222.6
+  },
+  "logos/uct.png": {
+    "filePath": "global/logos/uct.png",
+    "md5Checksum": "00601e7a7eb016aa58cfd841d55219ab",
+    "size_kb": 131.5
+  },
+  "logos/university_of_oxford.png": {
+    "filePath": "global/logos/university_of_oxford.png",
+    "md5Checksum": "0009af508ce7eb45c677828c7f9e4395",
+    "size_kb": 71.2
+  }
+}
