@@ -31,6 +31,7 @@ config.git = {
   content_tag_latest: "1.1.2",
 };
 
+config.api.db_name = "wash"
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "tz_sw";
