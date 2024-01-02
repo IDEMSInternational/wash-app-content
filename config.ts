@@ -2,15 +2,12 @@ import { generateDeploymentConfig } from "scripts";
 const config = generateDeploymentConfig("wash");
 
 config.google_drive = {
-  sheets_folder_id: "1AQqtRLoNuhbHP3KPzzQqzZcjdttT0rr8",
-  assets_folder_id: "1hebyXSR-rkpYLH_No2QTvCQiYfbh1RE9",
+  sheets_folder_ids: ["1AQqtRLoNuhbHP3KPzzQqzZcjdttT0rr8"],
+  assets_folder_ids: ["1hebyXSR-rkpYLH_No2QTvCQiYfbh1RE9"],
 };
 
 config.name = "wash"
-config.google_drive = {
-  sheets_folder_id: "1AQqtRLoNuhbHP3KPzzQqzZcjdttT0rr8",
-  assets_folder_id: "1hebyXSR-rkpYLH_No2QTvCQiYfbh1RE9",
-}
+
 config.android = {
   splash_asset_path: "packages/app-data/assets/global/android/splash.png",
   icon_asset_path: "packages/app-data/assets/global/android/icon.png",
